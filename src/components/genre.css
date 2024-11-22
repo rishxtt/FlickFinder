@@ -1,0 +1,38 @@
+/* genres.css */
+.card {
+    border: none;
+    border-radius: 0.5rem;
+    overflow: hidden;
+    transition: transform 0.3s, box-shadow 0.3s;
+    cursor: pointer;
+  }
+  
+  .card:hover {
+    transform: scale(1.05);
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  }
+  
+  .genre-card {
+    background: #f8f9fa;
+    color: #333;
+    padding: 1rem;
+  }
+  
+  .genre-card .card-title {
+    font-size: 1.25rem;
+    font-weight: bold;
+  }
+  
+  .search-input {
+    max-width: 300px;
+    margin: 0 auto;
+  }
+  
+  .container {
+    margin-top: 20px;
+  }
+  
+  .text-center {
+    text-align: center;
+  }
+  
