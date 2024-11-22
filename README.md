@@ -1,7 +1,3 @@
-Here's the updated **README.md** file without the mentioned sections:
-
----
-
 # FlickFinder 🎥  
 **FlickFinder** is a modern web application that helps users explore movies and TV shows. It leverages The Movie Database (TMDb) API to fetch real-time data and provides a seamless experience for browsing trending, top-rated, and genre-specific content.
 
@@ -58,5 +54,3 @@ Contributions are welcome! Please follow these steps:
 5. Submit a pull request.
 
 ---
-
-This version removes the **Acknowledgments**, **Backend**, **MongoDB**, **License**, and **Screenshots** sections. Let me know if you need further refinements!
